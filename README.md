@@ -5,7 +5,6 @@
 
 The objective of this project is to analyze retail sales data to understand revenue patterns, customer behavior, and product performance.
 
----
 
 ## 🔹 Dataset Description
 
@@ -17,7 +16,6 @@ The dataset contains retail transaction data with the following features:
 * Price per Unit
 * Quantity
 
----
 
 ## 🔹 Key Business Questions
 
@@ -26,7 +24,6 @@ The dataset contains retail transaction data with the following features:
 * How does customer age and gender influence spending?
 * What are the purchasing patterns of customers?
 
----
 
 ## 🔹 Analysis Performed
 
@@ -46,7 +43,6 @@ Analyzed spending patterns across age groups and gender.
 
 Studied how quantity affects total revenue.
 
----
 
 ## 🔹 Key Insights
 
@@ -56,7 +52,6 @@ Studied how quantity affects total revenue.
   * Electronics category contributes the highest revenue
   * Customers aged 25–30 have higher average spending
 
----
 
 ## 🔹 Business Recommendations
 
@@ -64,7 +59,6 @@ Studied how quantity affects total revenue.
 * Target high-spending customer segments for growth
 * Optimize pricing or promotion for low-performing categories
 
----
 
 ## 🔹 Tools Used
 
