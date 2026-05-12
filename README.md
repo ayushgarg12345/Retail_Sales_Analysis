@@ -107,6 +107,27 @@ To analyze sales patterns over time, revenue was aggregated on a monthly basis a
 
 Sales vary across different time periods, with noticeable fluctuations in monthly revenue. These variations are primarily influenced by changes in category-level demand rather than a consistent seasonal pattern. While certain categories drive peaks and others remain stable, the dataset does not provide sufficient evidence to confirm a repeating cyclical or seasonal trend.
 
+## 🔹 Which product categories hold the highest appeal among customers?
+
+To determine product appeal, multiple metrics including transaction frequency, quantity sold, and total revenue were analyzed.
+
+### Observations
+
+* Clothing has the highest number of transactions (351) and total units sold (894), indicating strong and consistent customer demand.
+* Electronics generates the highest revenue (₹156,905), suggesting higher-value purchases per transaction.
+* Beauty ranks lowest across all metrics, indicating comparatively lower overall demand.
+
+### Analysis
+
+* Clothing emerges as the **most appealing category**, as it is purchased more frequently and in higher quantities across customers.
+* Electronics, while slightly lower in transaction volume, contributes the highest revenue, indicating that customers spend more per purchase in this category.
+* Beauty products show lower engagement, suggesting more limited or segment-specific appeal.
+
+### Conclusion
+
+Customer appeal is best reflected through purchase frequency and demand volume. Based on these metrics, Clothing holds the highest overall appeal among customers, while Electronics serves as a high-value category, and Beauty shows relatively lower demand.
+
+
 
 ## 🔹 Tools Used
 
