@@ -80,20 +80,32 @@ From the above observations:
 Customer purchasing behavior is influenced by both age and gender. Age acts as the primary factor determining product preference, while gender introduces variation within specific age groups. This highlights the importance of segmenting customers based on both age and gender for more effective targeting strategies.
 
 
-## 🔹 Key Insights
+## 🔹 Are there discernible patterns in sales across different time periods?
 
-* [Write your findings here after running queries]
-* Example:
+To analyze sales patterns over time, revenue was aggregated on a monthly basis and further broken down by product category.
 
-  * Electronics category contributes the highest revenue
-  * Customers aged 25–30 have higher average spending
+### Data Observations
 
+* The highest revenue was recorded in **May (₹53,150)**, while the lowest was observed in **September (₹23,620)**, indicating significant variation across months.
+* Category-wise contribution shows that **Electronics dominates in several peak months**, such as May (43.73%) and December (45.25%).
+* **Clothing remains relatively stable**, contributing consistently between ~30–45% across most months.
+* **Beauty shows higher variability**, leading in only a few months (e.g., January and July).
 
-## 🔹 Business Recommendations
+### Analysis
 
-* Focus on high-performing categories to maximize revenue
-* Target high-spending customer segments for growth
-* Optimize pricing or promotion for low-performing categories
+* Revenue fluctuations are not uniform across categories.
+
+* **Electronics plays a key role in driving high-revenue months**, suggesting that spikes in overall sales are strongly influenced by increased demand in this category.
+
+* **Clothing acts as a stable base**, maintaining consistent contribution regardless of monthly fluctuations.
+
+* **Beauty exhibits irregular performance**, contributing significantly only in specific periods.
+
+* In lower-performing months like **September**, all categories show reduced revenue, indicating a **general decline in demand rather than a category-specific issue**.
+
+### Conclusion
+
+Sales vary across different time periods, with noticeable fluctuations in monthly revenue. These variations are primarily influenced by changes in category-level demand rather than a consistent seasonal pattern. While certain categories drive peaks and others remain stable, the dataset does not provide sufficient evidence to confirm a repeating cyclical or seasonal trend.
 
 
 ## 🔹 Tools Used
