@@ -164,6 +164,29 @@ To understand how customer behavior varies, spending patterns and product prefer
 
 Customer behavior shows a clear relationship between age, spending, and product preference. Younger customers tend to make higher-value but less frequent purchases, while middle-aged customers drive total revenue through frequent transactions. Product preferences evolve with age—from lifestyle and personal care products in younger segments to more utility-focused purchases in older groups—highlighting the importance of age-based segmentation in business strategy.
 
+## 🔹 How do customers adapt their shopping habits during seasonal trends?
+
+Customer shopping behavior was analyzed across different months to identify variations in purchasing patterns.
+
+### 📊 Observations
+
+* Monthly revenue shows noticeable variation, with **May recording the highest sales** and **September the lowest**.
+* Product category contributions shift across months:
+
+  * **Electronics dominates in peak months** such as May and December.
+  * **Clothing remains relatively stable** across most months.
+  * **Beauty shows higher variability**, performing strongly in selective months like January and July.
+
+### 📈 Analysis
+
+* Customers do not exhibit uniform purchasing behavior throughout the year.
+* During high-performing months, there is a **higher contribution from Electronics**, suggesting increased demand for higher-value products.
+* In lower-performing months, **all categories show reduced sales**, indicating a general decline in customer activity rather than a shift toward a specific category.
+* Clothing maintains consistent demand, suggesting it is less affected by time-based fluctuations compared to other categories.
+
+### 📌 Conclusion
+
+Customer shopping habits vary across months, with shifts in category contribution and overall spending levels. While certain categories gain prominence during high-revenue periods, the dataset does not provide sufficient evidence to confirm consistent seasonal trends. Instead, the analysis highlights fluctuations in demand and changing customer priorities over time.
 
 
 
