@@ -19,29 +19,65 @@ The dataset contains retail transaction data with the following features:
 
 ## 🔹 Key Business Questions
 
-* What is the total revenue generated?
-* Which product category contributes the most revenue?
-* How does customer age and gender influence spending?
-* What are the purchasing patterns of customers?
+* How does customer age and gender influence their purchasing behavior?
+* Are there discernible patterns in sales across different time periods?
+* Which product categories hold the highest appeal among customers?
+* What are the relationships between age, spending, and product preferences?
+* How do customers adapt their shopping habits during seasonal trends?
+* Are there distinct purchasing behaviors based on the number of items bought per transaction?
+* What insights can be gleaned from the distribution of product prices within each category?
 
 
-## 🔹 Analysis Performed
+## 🔹 How Age and Gender Influence Purchasing Behavior
 
-### 1. Total Revenue Analysis
+To understand customer behavior, I analyzed purchasing patterns by combining age groups, gender, and product categories.
 
-Calculated total revenue using SQL to understand overall business performance.
 
-### 2. Category-wise Revenue
+**18–25 Age Group:**
 
-Identified top-performing product categories based on revenue.
+* Female customers spent the most on Electronics (₹14,210)
+* Male customers spent the most on Beauty (₹17,845)
 
-### 3. Customer Behavior Analysis
+This shows a clear gender difference in preferences within the same age group.
 
-Analyzed spending patterns across age groups and gender.
 
-### 4. Purchase Patterns
+**26–35 Age Group:**
 
-Studied how quantity affects total revenue.
+* Both male and female customers spent the most on Clothing
+
+This indicates similar purchasing behavior across genders in this age range.
+
+
+**36–45 Age Group:**
+
+* Female customers preferred Clothing (₹16,400)
+* Male customers preferred Electronics (₹18,850)
+
+Again, a noticeable gender-based difference appears.
+
+
+**56+ Age Group:**
+
+* Female customers spent more on Clothing (₹16,785)
+* Male customers spent significantly more on Electronics (₹21,770)
+
+This shows strong divergence in preferences in older age groups.
+
+
+
+### Analysis
+
+From the above observations:
+
+* Age influences the overall category preference (e.g., younger customers lean towards beauty and lifestyle, while older customers prefer electronics).
+* Gender influences purchasing behavior within each age group, with noticeable differences in product preferences in several segments.
+* Some age groups (like 26–35) show similar behavior across genders, indicating that not all segments require gender-specific strategies.
+
+---
+
+###  Conclusion
+
+Customer purchasing behavior is influenced by both age and gender. Age acts as the primary factor determining product preference, while gender introduces variation within specific age groups. This highlights the importance of segmenting customers based on both age and gender for more effective targeting strategies.
 
 
 ## 🔹 Key Insights
