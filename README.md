@@ -127,6 +127,44 @@ To determine product appeal, multiple metrics including transaction frequency, q
 
 Customer appeal is best reflected through purchase frequency and demand volume. Based on these metrics, Clothing holds the highest overall appeal among customers, while Electronics serves as a high-value category, and Beauty shows relatively lower demand.
 
+## 🔹 What are the relationships between age, spending, and product preferences?
+
+To understand how customer behavior varies, spending patterns and product preferences were analyzed across age groups.
+
+### 📊 Observations
+
+* **18–25**: Highest average spending per transaction (≈₹500). Strong preference for **Beauty** and **Electronics** depending on gender.
+* **26–35**: Moderate-to-high spending with a clear tilt towards **Clothing** purchases.
+* **36–45**: Balanced spending across categories, with **Electronics** and **Clothing** both performing strongly.
+* **46–55**: Highest total spending driven by the **largest number of transactions**, with strong performance in **Electronics** and **Beauty**.
+* **56+**: Lower average spending, but noticeable preference for **Electronics (males)** and **Clothing (females)**.
+
+### 📈 Analysis
+
+* **Age vs Spending**:
+
+  * Younger customers (18–25) tend to **spend more per purchase** but transact less frequently.
+  * Middle-aged groups (46–55) generate **higher total revenue** due to **more frequent purchases** rather than higher spending per order.
+  * Older customers (56+) show relatively **lower average spending**.
+
+* **Age vs Product Preference**:
+
+  * **Younger segment (18–25)** → Lifestyle-oriented categories (Beauty, Electronics).
+  * **Young professionals (26–35)** → Strong preference for Clothing.
+  * **Middle-aged (36–55)** → More balanced consumption with increased spending on Electronics.
+  * **Older segment (56+)** → Preference shifts toward **utility-driven purchases** (Electronics) and **Clothing**.
+
+* **Spending vs Preference Relationship**:
+
+  * Categories like **Electronics** are associated with **higher-value transactions**.
+  * Categories like **Clothing** show **consistent demand across age groups**, contributing to stable revenue.
+  * **Beauty** exhibits **segment-specific appeal**, particularly among younger customers.
+
+### 📌 Conclusion
+
+Customer behavior shows a clear relationship between age, spending, and product preference. Younger customers tend to make higher-value but less frequent purchases, while middle-aged customers drive total revenue through frequent transactions. Product preferences evolve with age—from lifestyle and personal care products in younger segments to more utility-focused purchases in older groups—highlighting the importance of age-based segmentation in business strategy.
+
+
 
 
 ## 🔹 Tools Used
