@@ -435,5 +435,10 @@ The distribution of product prices across categories is relatively uniform, with
 
 ## 🔹 SQL Queries
 
+All SQL queries used in this analysis can be found here:
+
+👉 [View SQL Queries](./queries.sql)
+
+
 (See queries.sql file in this repository)
 
