@@ -127,7 +127,50 @@ To determine product appeal, multiple metrics including transaction frequency, q
 
 Customer appeal is best reflected through purchase frequency and demand volume. Based on these metrics, Clothing holds the highest overall appeal among customers, while Electronics serves as a high-value category, and Beauty shows relatively lower demand.
 
+---
+
 ## 🔹 What are the relationships between age, spending, and product preferences?
+
+### 📊 Monthly Revenue Contribution by Category
+
+| Month     | Category    | Revenue | Contribution (%) |
+|-----------|------------|--------:|-----------------:|
+| January   | Beauty      | 13,930 | 37.67 |
+| January   | Clothing    | 13,125 | 35.49 |
+| January   | Electronics | 9,925  | 26.84 |
+| February  | Electronics | 15,465 | 35.10 |
+| February  | Clothing    | 14,560 | 33.05 |
+| February  | Beauty      | 14,035 | 31.85 |
+| March     | Clothing    | 15,065 | 51.97 |
+| March     | Beauty      | 10,545 | 36.37 |
+| March     | Electronics | 3,380  | 11.66 |
+| April     | Clothing    | 13,940 | 41.16 |
+| April     | Beauty      | 11,905 | 35.15 |
+| April     | Electronics | 8,025  | 23.69 |
+| May       | Electronics | 23,245 | 43.73 |
+| May       | Clothing    | 17,455 | 32.84 |
+| May       | Beauty      | 12,450 | 23.42 |
+| June      | Electronics | 15,550 | 42.35 |
+| June      | Beauty      | 10,995 | 29.95 |
+| June      | Clothing    | 10,170 | 27.70 |
+| July      | Beauty      | 16,090 | 45.37 |
+| July      | Electronics | 11,125 | 31.37 |
+| July      | Clothing    | 8,250  | 23.26 |
+| August    | Electronics | 14,715 | 39.81 |
+| August    | Clothing    | 12,455 | 33.70 |
+| August    | Beauty      | 9,790  | 26.49 |
+| September | Clothing    | 9,975  | 42.23 |
+| September | Electronics | 7,325  | 31.01 |
+| September | Beauty      | 6,320  | 26.76 |
+| October   | Electronics | 17,910 | 38.45 |
+| October   | Beauty      | 15,355 | 32.96 |
+| October   | Clothing    | 13,315 | 28.59 |
+| November  | Clothing    | 15,200 | 43.53 |
+| November  | Electronics | 10,020 | 28.69 |
+| November  | Beauty      | 9,700  | 27.78 |
+| December  | Electronics | 20,220 | 45.25 |
+| December  | Beauty      | 12,400 | 27.75 |
+| December  | Clothing    | 12,070 | 27.01 |
 
 To understand how customer behavior varies, spending patterns and product preferences were analyzed across age groups.
 
@@ -163,6 +206,8 @@ To understand how customer behavior varies, spending patterns and product prefer
 ###  Conclusion
 
 Customer behavior shows a clear relationship between age, spending, and product preference. Younger customers tend to make higher-value but less frequent purchases, while middle-aged customers drive total revenue through frequent transactions. Product preferences evolve with age—from lifestyle and personal care products in younger segments to more utility-focused purchases in older groups—highlighting the importance of age-based segmentation in business strategy.
+
+---
 
 ## 🔹 How do customers adapt their shopping habits during seasonal trends?
 
