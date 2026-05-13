@@ -133,44 +133,40 @@ Customer appeal is best reflected through purchase frequency and demand volume. 
 
 ### 📊 Monthly Revenue Contribution by Category
 
-| Month     | Category    | Revenue | Contribution (%) |
-|-----------|------------|--------:|-----------------:|
-| January   | Beauty      | 13,930 | 37.67 |
-| January   | Clothing    | 13,125 | 35.49 |
-| January   | Electronics | 9,925  | 26.84 |
-| February  | Electronics | 15,465 | 35.10 |
-| February  | Clothing    | 14,560 | 33.05 |
-| February  | Beauty      | 14,035 | 31.85 |
-| March     | Clothing    | 15,065 | 51.97 |
-| March     | Beauty      | 10,545 | 36.37 |
-| March     | Electronics | 3,380  | 11.66 |
-| April     | Clothing    | 13,940 | 41.16 |
-| April     | Beauty      | 11,905 | 35.15 |
-| April     | Electronics | 8,025  | 23.69 |
-| May       | Electronics | 23,245 | 43.73 |
-| May       | Clothing    | 17,455 | 32.84 |
-| May       | Beauty      | 12,450 | 23.42 |
-| June      | Electronics | 15,550 | 42.35 |
-| June      | Beauty      | 10,995 | 29.95 |
-| June      | Clothing    | 10,170 | 27.70 |
-| July      | Beauty      | 16,090 | 45.37 |
-| July      | Electronics | 11,125 | 31.37 |
-| July      | Clothing    | 8,250  | 23.26 |
-| August    | Electronics | 14,715 | 39.81 |
-| August    | Clothing    | 12,455 | 33.70 |
-| August    | Beauty      | 9,790  | 26.49 |
-| September | Clothing    | 9,975  | 42.23 |
-| September | Electronics | 7,325  | 31.01 |
-| September | Beauty      | 6,320  | 26.76 |
-| October   | Electronics | 17,910 | 38.45 |
-| October   | Beauty      | 15,355 | 32.96 |
-| October   | Clothing    | 13,315 | 28.59 |
-| November  | Clothing    | 15,200 | 43.53 |
-| November  | Electronics | 10,020 | 28.69 |
-| November  | Beauty      | 9,700  | 27.78 |
-| December  | Electronics | 20,220 | 45.25 |
-| December  | Beauty      | 12,400 | 27.75 |
-| December  | Clothing    | 12,070 | 27.01 |
+### 📊 Age × Gender × Category Analysis
+
+| Age Group | Gender | Category    | Revenue | Transactions |
+|-----------|--------|------------|--------:|-------------:|
+| 18–25     | Female | Electronics | 14,210 | 29 |
+| 18–25     | Female | Beauty      | 13,435 | 32 |
+| 18–25     | Female | Clothing    | 11,825 | 20 |
+| 18–25     | Male   | Beauty      | 17,845 | 28 |
+| 18–25     | Male   | Clothing    | 14,685 | 31 |
+| 18–25     | Male   | Electronics | 12,550 | 29 |
+| 26–35     | Female | Clothing    | 19,320 | 33 |
+| 26–35     | Female | Beauty      | 18,750 | 36 |
+| 26–35     | Female | Electronics | 17,045 | 38 |
+| 26–35     | Male   | Clothing    | 20,655 | 41 |
+| 26–35     | Male   | Beauty      | 12,490 | 31 |
+| 26–35     | Male   | Electronics | 10,220 | 26 |
+| 36–45     | Female | Clothing    | 16,400 | 42 |
+| 36–45     | Female | Beauty      | 15,270 | 28 |
+| 36–45     | Female | Electronics | 15,065 | 37 |
+| 36–45     | Male   | Electronics | 18,850 | 35 |
+| 36–45     | Male   | Clothing    | 13,150 | 34 |
+| 36–45     | Male   | Beauty      | 13,135 | 26 |
+| 46–55     | Female | Electronics | 18,705 | 39 |
+| 46–55     | Female | Beauty      | 17,660 | 41 |
+| 46–55     | Female | Clothing    | 16,945 | 39 |
+| 46–55     | Male   | Beauty      | 17,060 | 30 |
+| 46–55     | Male   | Electronics | 16,780 | 43 |
+| 46–55     | Male   | Clothing    | 13,540 | 37 |
+| 56+       | Female | Clothing    | 16,785 | 40 |
+| 56+       | Female | Electronics | 11,710 | 27 |
+| 56+       | Female | Beauty      | 9,715  | 29 |
+| 56+       | Male   | Electronics | 21,770 | 39 |
+| 56+       | Male   | Clothing    | 12,275 | 34 |
+| 56+       | Male   | Beauty      | 8,155  | 26 |
 
 To understand how customer behavior varies, spending patterns and product preferences were analyzed across age groups.
 
@@ -213,17 +209,44 @@ Customer behavior shows a clear relationship between age, spending, and product 
 
 ### 📊 Purchasing Behavior by Number of Items and Category
 
-| Purchase Type | Category    | Transactions | Revenue |
-|---------------|------------|-------------|--------|
-| 2–3 Items     | Beauty      | 160         | 82085  |
-| 2–3 Items     | Clothing    | 166         | 72985  |
-| 2–3 Items     | Electronics | 158         | 70265  |
-| 4+ Items      | Electronics | 93          | 69680  |
-| 4+ Items      | Clothing    | 97          | 66480  |
-| 4+ Items      | Beauty      | 73          | 49700  |
-| Single Item   | Electronics | 91          | 16960  |
-| Single Item   | Clothing    | 88          | 16115  |
-| Single Item   | Beauty      | 74          | 11730  |
+| Month     | Category    | Revenue | Contribution (%) |
+|-----------|------------|--------:|-----------------:|
+| January   | Beauty      | 13,930 | 37.67 |
+| January   | Clothing    | 13,125 | 35.49 |
+| January   | Electronics | 9,925  | 26.84 |
+| February  | Electronics | 15,465 | 35.10 |
+| February  | Clothing    | 14,560 | 33.05 |
+| February  | Beauty      | 14,035 | 31.85 |
+| March     | Clothing    | 15,065 | 51.97 |
+| March     | Beauty      | 10,545 | 36.37 |
+| March     | Electronics | 3,380  | 11.66 |
+| April     | Clothing    | 13,940 | 41.16 |
+| April     | Beauty      | 11,905 | 35.15 |
+| April     | Electronics | 8,025  | 23.69 |
+| May       | Electronics | 23,245 | 43.73 |
+| May       | Clothing    | 17,455 | 32.84 |
+| May       | Beauty      | 12,450 | 23.42 |
+| June      | Electronics | 15,550 | 42.35 |
+| June      | Beauty      | 10,995 | 29.95 |
+| June      | Clothing    | 10,170 | 27.70 |
+| July      | Beauty      | 16,090 | 45.37 |
+| July      | Electronics | 11,125 | 31.37 |
+| July      | Clothing    | 8,250  | 23.26 |
+| August    | Electronics | 14,715 | 39.81 |
+| August    | Clothing    | 12,455 | 33.70 |
+| August    | Beauty      | 9,790  | 26.49 |
+| September | Clothing    | 9,975  | 42.23 |
+| September | Electronics | 7,325  | 31.01 |
+| September | Beauty      | 6,320  | 26.76 |
+| October   | Electronics | 17,910 | 38.45 |
+| October   | Beauty      | 15,355 | 32.96 |
+| October   | Clothing    | 13,315 | 28.59 |
+| November  | Clothing    | 15,200 | 43.53 |
+| November  | Electronics | 10,020 | 28.69 |
+| November  | Beauty      | 9,700  | 27.78 |
+| December  | Electronics | 20,220 | 45.25 |
+| December  | Beauty      | 12,400 | 27.75 |
+| December  | Clothing    | 12,070 | 27.01 |
 
 Customer shopping behavior was analyzed across different months to identify variations in purchasing patterns.
 
@@ -260,11 +283,17 @@ Customer shopping habits vary across months, with shifts in category contributio
 
 ### 📊 Price Distribution by Category
 
-| Category    | Min Price | Max Price | Avg Price | Price Variability (Std Dev) |
-|-------------|----------|----------|-----------|-----------------------------|
-| Beauty      | 25       | 500      | 184.06    | 194.61                      |
-| Clothing    | 25       | 500      | 174.29    | 185.75                      |
-| Electronics | 25       | 500      | 181.90    | 188.77                      |
+| Purchase Type | Category    | Transactions | Revenue |
+|---------------|------------|-------------|--------|
+| 2–3 Items     | Beauty      | 160         | 82085  |
+| 2–3 Items     | Clothing    | 166         | 72985  |
+| 2–3 Items     | Electronics | 158         | 70265  |
+| 4+ Items      | Electronics | 93          | 69680  |
+| 4+ Items      | Clothing    | 97          | 66480  |
+| 4+ Items      | Beauty      | 73          | 49700  |
+| Single Item   | Electronics | 91          | 16960  |
+| Single Item   | Clothing    | 88          | 16115  |
+| Single Item   | Beauty      | 74          | 11730  |
 
 
 To analyze purchasing behavior, transactions were segmented based on the number of items purchased: single-item, 2–3 items, and 4+ items.
@@ -287,7 +316,15 @@ To analyze purchasing behavior, transactions were segmented based on the number 
 
 There are clear differences in purchasing behavior based on the number of items bought per transaction. Customers tend to prefer moderate multi-item purchases, while category-specific patterns reveal that Clothing is commonly bought in bulk, Electronics varies between single and bundled purchases, and Beauty products are typically bought in smaller quantities. These insights highlight opportunities for bundle offers and cross-selling strategies to increase revenue.
 
+---
+
 ## 🔹 What insights can be gleaned from the distribution of product prices within each category?
+
+ Category    | Min Price | Max Price | Avg Price | Price Variability (Std Dev) |
+|-------------|----------|----------|-----------|-----------------------------|
+| Beauty      | 25       | 500      | 184.06    | 194.61                      |
+| Clothing    | 25       | 500      | 174.29    | 185.75                      |
+| Electronics | 25       | 500      | 181.90    | 188.77                      |
 
 To understand pricing patterns, the distribution of product prices across categories was analyzed using minimum, maximum, average price, and price variability.
 
@@ -307,7 +344,7 @@ To understand pricing patterns, the distribution of product prices across catego
 
 The distribution of product prices across categories is relatively uniform, with differences primarily in variability rather than pricing level. This suggests that customer purchasing behavior is influenced more by product preference and demand patterns than by price differences across categories.
 
-
+---
 
 ## 🔹 SQL Queries
 
