@@ -31,6 +31,41 @@ The dataset contains retail transaction data with the following features:
 
 ## 🔹 How Age and Gender Influence Purchasing Behavior
 
+### 📊 Age × Gender × Category Analysis
+
+| Age Group | Gender | Category    | Revenue | Transactions |
+|-----------|--------|------------|--------:|-------------:|
+| 18–25     | Female | Electronics | 14,210 | 29 |
+| 18–25     | Female | Beauty      | 13,435 | 32 |
+| 18–25     | Female | Clothing    | 11,825 | 20 |
+| 18–25     | Male   | Beauty      | 17,845 | 28 |
+| 18–25     | Male   | Clothing    | 14,685 | 31 |
+| 18–25     | Male   | Electronics | 12,550 | 29 |
+| 26–35     | Female | Clothing    | 19,320 | 33 |
+| 26–35     | Female | Beauty      | 18,750 | 36 |
+| 26–35     | Female | Electronics | 17,045 | 38 |
+| 26–35     | Male   | Clothing    | 20,655 | 41 |
+| 26–35     | Male   | Beauty      | 12,490 | 31 |
+| 26–35     | Male   | Electronics | 10,220 | 26 |
+| 36–45     | Female | Clothing    | 16,400 | 42 |
+| 36–45     | Female | Beauty      | 15,270 | 28 |
+| 36–45     | Female | Electronics | 15,065 | 37 |
+| 36–45     | Male   | Electronics | 18,850 | 35 |
+| 36–45     | Male   | Clothing    | 13,150 | 34 |
+| 36–45     | Male   | Beauty      | 13,135 | 26 |
+| 46–55     | Female | Electronics | 18,705 | 39 |
+| 46–55     | Female | Beauty      | 17,660 | 41 |
+| 46–55     | Female | Clothing    | 16,945 | 39 |
+| 46–55     | Male   | Beauty      | 17,060 | 30 |
+| 46–55     | Male   | Electronics | 16,780 | 43 |
+| 46–55     | Male   | Clothing    | 13,540 | 37 |
+| 56+       | Female | Clothing    | 16,785 | 40 |
+| 56+       | Female | Electronics | 11,710 | 27 |
+| 56+       | Female | Beauty      | 9,715  | 29 |
+| 56+       | Male   | Electronics | 21,770 | 39 |
+| 56+       | Male   | Clothing    | 12,275 | 34 |
+| 56+       | Male   | Beauty      | 8,155  | 26 |
+
 To understand customer behavior, I analyzed purchasing patterns by combining age groups, gender, and product categories.
 
 
@@ -82,6 +117,47 @@ Customer purchasing behavior is influenced by both age and gender. Age acts as t
 ---
 
 ## 🔹 Are there discernible patterns in sales across different time periods?
+
+### 📊 Monthly Revenue by Category
+
+| Month     | Category    | Revenue |
+|-----------|------------|--------:|
+| January   | Beauty      | 13,930 |
+| January   | Clothing    | 13,125 |
+| January   | Electronics | 9,925  |
+| February  | Electronics | 15,465 |
+| February  | Clothing    | 14,560 |
+| February  | Beauty      | 14,035 |
+| March     | Clothing    | 15,065 |
+| March     | Beauty      | 10,545 |
+| March     | Electronics | 3,380  |
+| April     | Clothing    | 13,940 |
+| April     | Beauty      | 11,905 |
+| April     | Electronics | 8,025  |
+| May       | Electronics | 23,245 |
+| May       | Clothing    | 17,455 |
+| May       | Beauty      | 12,450 |
+| June      | Electronics | 15,550 |
+| June      | Beauty      | 10,995 |
+| June      | Clothing    | 10,170 |
+| July      | Beauty      | 16,090 |
+| July      | Electronics | 11,125 |
+| July      | Clothing    | 8,250  |
+| August    | Electronics | 14,715 |
+| August    | Clothing    | 12,455 |
+| August    | Beauty      | 9,790  |
+| September | Clothing    | 9,975  |
+| September | Electronics | 7,325  |
+| September | Beauty      | 6,320  |
+| October   | Electronics | 17,910 |
+| October   | Beauty      | 15,355 |
+| October   | Clothing    | 13,315 |
+| November  | Clothing    | 15,200 |
+| November  | Electronics | 10,020 |
+| November  | Beauty      | 9,700  |
+| December  | Electronics | 20,220 |
+| December  | Beauty      | 12,400 |
+| December  | Clothing    | 12,070 |
 
 To analyze sales patterns over time, revenue was aggregated on a monthly basis and further broken down by product category.
 
