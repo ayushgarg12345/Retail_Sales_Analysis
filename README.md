@@ -166,9 +166,23 @@ Customer behavior shows a clear relationship between age, spending, and product 
 
 ## 🔹 How do customers adapt their shopping habits during seasonal trends?
 
+### 📊 Purchasing Behavior by Number of Items and Category
+
+| Purchase Type | Category    | Transactions | Revenue |
+|---------------|------------|-------------|--------|
+| 2–3 Items     | Beauty      | 160         | 82085  |
+| 2–3 Items     | Clothing    | 166         | 72985  |
+| 2–3 Items     | Electronics | 158         | 70265  |
+| 4+ Items      | Electronics | 93          | 69680  |
+| 4+ Items      | Clothing    | 97          | 66480  |
+| 4+ Items      | Beauty      | 73          | 49700  |
+| Single Item   | Electronics | 91          | 16960  |
+| Single Item   | Clothing    | 88          | 16115  |
+| Single Item   | Beauty      | 74          | 11730  |
+
 Customer shopping behavior was analyzed across different months to identify variations in purchasing patterns.
 
-### 📊 Observations
+###  Observations
 
 * Monthly revenue shows noticeable variation, with **May recording the highest sales** and **September the lowest**.
 * Product category contributions shift across months:
