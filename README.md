@@ -197,6 +197,29 @@ Customer shopping habits vary across months, with shifts in category contributio
 
 ---
 
+ ## 🔹 Are there distinct purchasing behaviors based on the number of items bought per transaction?
+
+To analyze purchasing behavior, transactions were segmented based on the number of items purchased: single-item, 2–3 items, and 4+ items.
+
+### Observations
+
+* The majority of transactions fall within the **2–3 items category**, indicating that customers most commonly purchase multiple items rather than single products.
+* Clothing shows strong performance in both 2–3 item and 4+ item purchases, suggesting it is frequently bought in bulk.
+* Electronics exhibits a mixed pattern, with presence in both single-item and multi-item purchases, indicating both individual high-value purchases and bundled buying behavior.
+* Beauty products are primarily purchased in moderate quantities (2–3 items) and show lower presence in bulk purchases.
+
+### Analysis
+
+* Customer behavior is not uniform across purchase sizes.
+* **2–3 item purchases act as the primary revenue driver**, balancing both frequency and order value.
+* Single-item purchases are more frequent for certain categories like Electronics but contribute less to overall revenue.
+* Bulk purchases (4+ items) occur less frequently but still contribute significantly due to higher order value.
+
+### Conclusion
+
+There are clear differences in purchasing behavior based on the number of items bought per transaction. Customers tend to prefer moderate multi-item purchases, while category-specific patterns reveal that Clothing is commonly bought in bulk, Electronics varies between single and bundled purchases, and Beauty products are typically bought in smaller quantities. These insights highlight opportunities for bundle offers and cross-selling strategies to increase revenue.
+
+
 ## 🔹 SQL Queries
 
 (See queries.sql file in this repository)
