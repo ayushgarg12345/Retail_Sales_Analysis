@@ -199,9 +199,14 @@ Customer shopping habits vary across months, with shifts in category contributio
 
  ## 🔹 Are there distinct purchasing behaviors based on the number of items bought per transaction?
 
-Beauty	25	500	184.06	194.61
-Clothing	25	500	174.29	185.75
-Electronics	25	500	181.90	188.77
+### 📊 Price Distribution by Category
+
+| Category    | Min Price | Max Price | Avg Price | Price Variability (Std Dev) |
+|-------------|----------|----------|-----------|-----------------------------|
+| Beauty      | 25       | 500      | 184.06    | 194.61                      |
+| Clothing    | 25       | 500      | 174.29    | 185.75                      |
+| Electronics | 25       | 500      | 181.90    | 188.77                      |
+
 
 To analyze purchasing behavior, transactions were segmented based on the number of items purchased: single-item, 2–3 items, and 4+ items.
 
