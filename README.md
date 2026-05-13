@@ -1,5 +1,5 @@
 
-# 📊 Retail Sales Analysis Project
+#  Retail Sales Analysis Project
 
 ## 🔹 Objective
 
@@ -131,7 +131,7 @@ Customer appeal is best reflected through purchase frequency and demand volume. 
 
 To understand how customer behavior varies, spending patterns and product preferences were analyzed across age groups.
 
-### 📊 Observations
+###  Observations
 
 * **18–25**: Highest average spending per transaction (≈₹500). Strong preference for **Beauty** and **Electronics** depending on gender.
 * **26–35**: Moderate-to-high spending with a clear tilt towards **Clothing** purchases.
@@ -139,7 +139,7 @@ To understand how customer behavior varies, spending patterns and product prefer
 * **46–55**: Highest total spending driven by the **largest number of transactions**, with strong performance in **Electronics** and **Beauty**.
 * **56+**: Lower average spending, but noticeable preference for **Electronics (males)** and **Clothing (females)**.
 
-### 📈 Analysis
+###  Analysis
 
 * **Age vs Spending**:
 
@@ -160,7 +160,7 @@ To understand how customer behavior varies, spending patterns and product prefer
   * Categories like **Clothing** show **consistent demand across age groups**, contributing to stable revenue.
   * **Beauty** exhibits **segment-specific appeal**, particularly among younger customers.
 
-### 📌 Conclusion
+###  Conclusion
 
 Customer behavior shows a clear relationship between age, spending, and product preference. Younger customers tend to make higher-value but less frequent purchases, while middle-aged customers drive total revenue through frequent transactions. Product preferences evolve with age—from lifestyle and personal care products in younger segments to more utility-focused purchases in older groups—highlighting the importance of age-based segmentation in business strategy.
 
@@ -177,14 +177,14 @@ Customer shopping behavior was analyzed across different months to identify vari
   * **Clothing remains relatively stable** across most months.
   * **Beauty shows higher variability**, performing strongly in selective months like January and July.
 
-### 📈 Analysis
+###  Analysis
 
 * Customers do not exhibit uniform purchasing behavior throughout the year.
 * During high-performing months, there is a **higher contribution from Electronics**, suggesting increased demand for higher-value products.
 * In lower-performing months, **all categories show reduced sales**, indicating a general decline in customer activity rather than a shift toward a specific category.
 * Clothing maintains consistent demand, suggesting it is less affected by time-based fluctuations compared to other categories.
 
-### 📌 Conclusion
+### Conclusion
 
 Customer shopping habits vary across months, with shifts in category contribution and overall spending levels. While certain categories gain prominence during high-revenue periods, the dataset does not provide sufficient evidence to confirm consistent seasonal trends. Instead, the analysis highlights fluctuations in demand and changing customer priorities over time.
 
@@ -218,6 +218,27 @@ To analyze purchasing behavior, transactions were segmented based on the number 
 ### Conclusion
 
 There are clear differences in purchasing behavior based on the number of items bought per transaction. Customers tend to prefer moderate multi-item purchases, while category-specific patterns reveal that Clothing is commonly bought in bulk, Electronics varies between single and bundled purchases, and Beauty products are typically bought in smaller quantities. These insights highlight opportunities for bundle offers and cross-selling strategies to increase revenue.
+
+## 🔹 What insights can be gleaned from the distribution of product prices within each category?
+
+To understand pricing patterns, the distribution of product prices across categories was analyzed using minimum, maximum, average price, and price variability.
+
+### Observations
+
+* All categories share the same price range (₹25 to ₹500), indicating no significant difference in pricing boundaries.
+* The average price across categories is relatively similar, with only minor differences between Beauty, Electronics, and Clothing.
+* Beauty products show the highest price variability, while Clothing exhibits more stable pricing.
+
+###  Analysis
+
+* The similarity in price range and average price suggests that pricing is not a major differentiating factor between categories.
+* Higher variability in Beauty indicates a wider mix of low-cost and premium products within the category.
+* More consistent pricing in Clothing suggests standardized product pricing and stable demand.
+
+###  Conclusion
+
+The distribution of product prices across categories is relatively uniform, with differences primarily in variability rather than pricing level. This suggests that customer purchasing behavior is influenced more by product preference and demand patterns than by price differences across categories.
+
 
 
 ## 🔹 SQL Queries
