@@ -1,4 +1,4 @@
-
+---
 #  Retail Sales Analysis Project
 
 ## 🔹 Objective
@@ -27,6 +27,7 @@ The dataset contains retail transaction data with the following features:
 * Are there distinct purchasing behaviors based on the number of items bought per transaction?
 * What insights can be gleaned from the distribution of product prices within each category?
 
+---
 
 ## 🔹 How Age and Gender Influence Purchasing Behavior
 
@@ -73,12 +74,12 @@ From the above observations:
 * Gender influences purchasing behavior within each age group, with noticeable differences in product preferences in several segments.
 * Some age groups (like 26–35) show similar behavior across genders, indicating that not all segments require gender-specific strategies.
 
----
 
 ###  Conclusion
 
 Customer purchasing behavior is influenced by both age and gender. Age acts as the primary factor determining product preference, while gender introduces variation within specific age groups. This highlights the importance of segmenting customers based on both age and gender for more effective targeting strategies.
 
+---
 
 ## 🔹 Are there discernible patterns in sales across different time periods?
 
@@ -107,7 +108,17 @@ To analyze sales patterns over time, revenue was aggregated on a monthly basis a
 
 Sales vary across different time periods, with noticeable fluctuations in monthly revenue. These variations are primarily influenced by changes in category-level demand rather than a consistent seasonal pattern. While certain categories drive peaks and others remain stable, the dataset does not provide sufficient evidence to confirm a repeating cyclical or seasonal trend.
 
+---
+
 ## 🔹 Which product categories hold the highest appeal among customers?
+
+### 📊 Overall Category Performance
+
+| Category    | Transactions | Units Sold | Revenue |
+|-------------|-------------:|-----------:|--------:|
+| Clothing    | 351          | 894        | 155,580 |
+| Electronics | 342          | 849        | 156,905 |
+| Beauty      | 307          | 771        | 143,515 |
 
 To determine product appeal, multiple metrics including transaction frequency, quantity sold, and total revenue were analyzed.
 
